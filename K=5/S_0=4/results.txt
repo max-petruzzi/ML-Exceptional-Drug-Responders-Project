@@ -1,0 +1,13 @@
+Features that make up the interpretable subgroup are: ["age", "hepato", "chol", "protime"]
+The subgroup has the following bounds:
+age ∈ [39.3182751540041, 65.39904175222449]
+hepato ∈ [1.0, 1.0]
+chol ∈ [120.0, 947.5]
+protime ∈ [9.0, 11.025]
+--------------------------------------------------------
+ATE: 0.4665308853224893
+ATE_not: 0.3191032614457458
+Difference: 0.14742762387674352
+Percentage Difference: 46.2%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 67.0

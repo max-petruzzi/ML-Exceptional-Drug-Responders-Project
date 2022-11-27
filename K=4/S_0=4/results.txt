@@ -1,0 +1,13 @@
+Features that make up the interpretable subgroup are: ["age", "alk.phos", "platelet", "stage"]
+The subgroup has the following bounds:
+age ∈ [43.66506958704083, 61.05224731918777]
+alk.phos ∈ [289.0, 9337.933333333332]
+platelet ∈ [62.0, 229.0]
+stage ∈ [2.0, 4.0]
+--------------------------------------------------------
+ATE: 0.4566833651578964
+ATE_not: 0.2961688793390121
+Difference: 0.16051448581888433
+Percentage Difference: 54.2%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 65.0

@@ -1,0 +1,11 @@
+Features that make up the interpretable subgroup are: ast, platelet
+The subgroup has the following bounds:
+ast ∈ [112.53, 198.70999999999998]
+platelet ∈ [262.4, 563.0]
+--------------------------------------------------------
+ATE: 0.4368139671172114
+ATE_not: 0.32507036044357385
+Difference: 0.11174360667363753
+Percentage difference: 34.38%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 69.0

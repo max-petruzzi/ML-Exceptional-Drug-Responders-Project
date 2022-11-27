@@ -1,0 +1,11 @@
+Features that make up the interpretable subgroup are: ["age", "platelet"]
+The subgroup has the following bounds:
+age ∈ [43.66506958704083, 61.05224731918777]
+platelet ∈ [62.0, 229.0]
+--------------------------------------------------------
+ATE: 0.47004224967811786
+ATE_not: 0.33537520473711097
+Difference: 0.1346670449410069
+Percentage Difference: 40.15%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 69.0

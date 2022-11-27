@@ -1,0 +1,11 @@
+Features that make up the interpretable subgroup are: ["age", "albumin"]
+The subgroup has the following bounds:
+age ∈ [39.3182751540041, 52.3586584531143]
+albumin ∈ [3.3, 4.64]
+--------------------------------------------------------
+ATE: 0.5508822559638147
+ATE_not: 0.4619304131193015
+Difference: 0.08895184284451318
+Percentage Difference: 19.26%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 94.0
