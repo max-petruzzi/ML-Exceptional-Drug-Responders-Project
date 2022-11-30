@@ -1,0 +1,13 @@
+Features that make up the interpretable subgroup are: albumin, copper, alk.phos, ast
+The subgroup has the following bounds:
+albumin ∈ [3.491428571428571, 4.257142857142856]
+copper ∈ [4.0, 379.42857142857144]
+alk.phos ∈ [1258.5285714285715, 9014.757142857143]
+ast ∈ [57.12857142857143, 303.3571428571429]
+--------------------------------------------------------
+ATE: 0.6043714841217435
+ATE_not: 0.4047629037033998
+Difference: 0.19960858041834367
+Percentage difference: 49.31%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 67.0

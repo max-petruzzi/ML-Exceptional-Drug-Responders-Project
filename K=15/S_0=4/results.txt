@@ -1,0 +1,13 @@
+Features that make up the interpretable subgroup are: chol, copper, ast, protime
+The subgroup has the following bounds:
+chol ∈ [356.42857142857144, 947.5]
+copper ∈ [45.714285714285715, 588.0]
+ast ∈ [57.12857142857143, 303.3571428571429]
+protime ∈ [9.57857142857143, 15.364285714285716]
+--------------------------------------------------------
+ATE: 0.4400028870610881
+ATE_not: 0.234502340572481
+Difference: 0.20550054648860708
+Percentage difference: 87.63%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 78.0

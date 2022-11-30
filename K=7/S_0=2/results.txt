@@ -1,0 +1,11 @@
+Features that make up the interpretable subgroup are: albumin, protime
+The subgroup has the following bounds:
+albumin ∈ [3.3, 3.746666666666666]
+protime ∈ [10.35, 15.75]
+--------------------------------------------------------
+ATE: 0.5402092687623875
+ATE_not: 0.4016916795561957
+Difference: 0.13851758920619178
+Percentage difference: 34.48%
+--------------------------------------------------------
+Patients in the interpretable subgroup: 77.0
