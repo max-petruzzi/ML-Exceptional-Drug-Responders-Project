@@ -1,4 +1,4 @@
-### ML Exceptional Drug Responders Project
+# ML Exceptional Drug Responders Project
 
 This project was completed by Max Petruzzi and Guillaume Bonheure, two Master of Business Analytics candidates from MIT, for the course 15.095 - Machine Learning through a Modern Optimization Lens with Dr. Dimitris Bertsimas.
 
@@ -11,7 +11,7 @@ For more information on our methods and findings, please see the article found i
 
 ______________________________________________________________________________________________________________________________
 
-# Datasets:
+### Datasets:
 
 The main data set was from a 1991 Mayo Clinic clinical trial for the drug D-Penicillamine for the indication Primary Billiary Cirrhosis:
 Fleming TR & Harrington DP (1991): Counting Processes & Survival Analysis. New York: Wiley; Appendix D; courtesy Dr Terry Therneau of Mayo Clinic
